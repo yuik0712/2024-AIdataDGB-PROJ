@@ -18,4 +18,4 @@ Database : MongoDB / PostgresSQL
 
 
 # ⚒️ 구조
-![image](https://github.com/user-attachments/assets/79108e5d-b48b-470a-b97f-1d0af8f78282)
+![Uploading image.png…]()
