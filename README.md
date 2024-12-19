@@ -1,4 +1,4 @@
-<img width="1015" alt="image" src="https://github.com/user-attachments/assets/0023b154-c409-4d19-bb71-2eef1e361aad" /># 'IT’s DGB, iM Challenger' 
+# 'IT’s DGB, iM Challenger' 
 사람들이 자신의 꿈(사업, 학업, 여행 등)을 등록하고 투자자들이 소액으로 투자할 수 있는 서비스
 
 # ✅ 간단한 기능 소개
@@ -18,3 +18,4 @@ Database : MongoDB / PostgresSQL
 
 
 # ⚒️ 구조
+<img width="1015" alt="image" src="https://github.com/user-attachments/assets/0023b154-c409-4d19-bb71-2eef1e361aad" />
